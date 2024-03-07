@@ -1,2 +1,2 @@
-# ft_1000_companies_scraper
-Scraping FT 1000 Europe’s fastest-growing companies in 2024
+# Scrapes the FT 1000 Companies in Europe
+Here are quick examples that I tried using **Scrapy**, **Requests**, **Pandas** in Python and **Fecht** in JS
